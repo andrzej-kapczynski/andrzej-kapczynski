@@ -11,7 +11,7 @@ I am a Moblie Developer 🤓
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## GitHub Stats 🤖
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Endrju00&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Endrju00&theme=transparent) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrzej-kapczynski&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrzej-kapczynski&theme=transparent) |
 | - | - |
 
 
